@@ -30,6 +30,3 @@ pip install -r requirements.txt
 pip install shiny>=0.9 torch torchvision torchaudio \
             super-image pytorch-msssim opencv-python \
             matplotlib pillow scikit-image numpy
-
-## Run the app
-shiny run --reload app.py
