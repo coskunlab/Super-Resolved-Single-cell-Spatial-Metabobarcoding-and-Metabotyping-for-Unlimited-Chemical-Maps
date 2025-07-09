@@ -15,15 +15,6 @@ This Shiny for Python app provides an interactive front-end to a dual-encoder U-
 
 ---
 
-## 🖥️ Demo
-| Guide (structural) | Low-res MSI | GSR Output |
-|--------------------|-------------|------------|
-| ![](docs/guide_demo.png) | ![](docs/low_demo.png) | ![](docs/sr_demo.png) |
-
-*(Screenshots generated with a 64 × 64 MALDI-IHC channel guided by 1024 × 1024 NeuN fluorescence.)*
-
----
-
 ## 🔧 Installation
 ```bash
 # 1. Clone the repo
